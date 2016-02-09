@@ -1,5 +1,6 @@
 #Tasks for vNext VSO Build System
 
+
 Tasks which will be provided in the box in the new build system.
 
 
@@ -20,8 +21,8 @@ Before you run the builds, you need to configure an agent:
 
 [OSX/Linux](https://github.com/Microsoft/vso-agent)
 
-##Available Build Steps
 
+##Available Build Steps
 * Android
 * Ant
 * Azure Cloud Deployment
