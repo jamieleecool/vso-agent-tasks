@@ -2,11 +2,19 @@
 
 Tasks which will be provided in the box in the new build system.
 
+
+
 ![Build Tasks](/tasks.png?raw=true "Build Tasks")
+
+
 
 ##Configure
 
+
+
 Before you run the builds, you need to configure an agent:
+
+
 
 [Windows](http://youtu.be/V2-cPzggChg)
 
