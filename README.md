@@ -1,7 +1,7 @@
 #Tasks for vNext VSO Build System
 
 
-Tasks which will be provided in the box in the new build system.
+Tasks Which will be provided in the box in the new build system.
 
 
 
